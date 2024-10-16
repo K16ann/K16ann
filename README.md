@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @K16ann
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Git
+- 🌱 I’m Researching and Developing
 
 <!---
 K16ann/K16ann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
